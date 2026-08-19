@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Trishant Basnet — Personal Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website.
 
-First, run the development server:
+This portfolio showcases my software development and data analytics projects, technical skills, resume, and professional links.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website is built with modern web technologies and designed to provide a simple, responsive, and professional experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Technologies
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- HTML
+- CSS
 
-## Learn More
+## 💻 Featured Projects
 
-To learn more about Next.js, take a look at the following resources:
+### 1. MyJobTracker
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+A full-stack job application tracking platform designed to help students organize job applications, interviews, deadlines, and application progress.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Technologies:**
 
-## Deploy on Vercel
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🔗 [View Project on GitHub](https://github.com/trishant957/myjob-tracker)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 2. Supermarket Sales Analysis
+
+An end-to-end data analytics project analyzing 1,000 supermarket transactions to identify sales, customer, product, and payment trends.
+
+**Technologies:**
+
+- Excel
+- MySQL
+- SQL
+- Power BI
+
+🔗 [View Project on GitHub](https://github.com/trishant957/Supermarket-analysis-Excel-power-bi-MySQL-)
+
+---
+
+### 3. AI Supermarket Sales Analyst
+
+An interactive supermarket sales analysis application built with Python, Pandas, Plotly, and Streamlit for exploring supermarket business and sales data.
+
+**Technologies:**
+
+- Python
+- Pandas
+- Plotly
+- Streamlit
+
+🔗 [View Project on GitHub](https://github.com/trishant957/AI-Supermarket-Sales-Analyst)
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### Web Development
+- React
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+
+### Data & Analytics
+- Pandas
+- Excel
+- MySQL
+- Power BI
+- Data Visualization
+
+### Databases
+- MySQL
+- PostgreSQL
+- Supabase
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Cursor
+
+### Other
+- Streamlit
+- Plotly
+- Canva
+- WordPress
+
+## 📁 Project Structure
+
+```text
+trishant-portfolio/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+├── public/
+│   ├── resume.pdf
+│   └── screenshots/
+│       ├── myjobtracker.png
+│       ├── supermarket.png
+│       └── ai-supermarket.png
+├── package.json
+├── package-lock.json
+└── README.md
